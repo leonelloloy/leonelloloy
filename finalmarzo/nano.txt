@@ -1,0 +1,119 @@
+EDI:
+
+a)
+
+es lo que nos permite compartir el código fuente de nuestros desarrollos y a la vez mantener un registro de los cambios por los que va pasando.
+
+ejemplo: git, mercurial, Bazaar
+
+b)
+las cuatro libertades son:
+1- la libertad de usar el programa, con cualquier propósito (uso).
+
+2-la libertad de estudiar cómo funciona el programa y modificarlo, adaptándolo a las propias necesidades (estudio).
+
+3-la libertad de distribuir copias del programa, con lo cual se puede ayudar a otros usuarios (distribución).
+
+4-la libertad de mejorar el programa y hacer públicas esas mejoras a los demás, de modo que toda la comunidad se beneficie (mejora).
+
+c)
+El kernel o núcleo es la parte central de cualquier sistema operativo.Se podría decir que el kernel funciona como intermediaro entre el software y el hardware, puesto que es el que recibe las órdenes de los elementos del sistema operativo para enviarlas al procesador u otros elementos del hardware para que se ejecuten.
+El kernel es la primera capa de software donde tenemos los drivers que controlan todos los componentes del hardware
+
+cd: Este comando se usa para cambiar de directorio. 
+ls: es un comando que muestra un listado con los archivos y carpetas de un determinado directorio
+top: Muestra un resumen del estado de nuestro sistema y la lista de procesos que se están ejecutando
+ps: es un comando permite visualizar el estado de un Proceso 
+rm: es usado para eliminar archivos y directorios del sistema de archivos.
+touch: Este comando se utiliza para cambiar la fecha de acceso y/o modificación a un archivo.
+history: para averiguar los últimos comandos que se han ejecutado en un terminal.
+
+ARQUITECTURA:
+
+A)
+
+   10101010 
++  00010001 =10111011
+
+
+
+     10101010 
+and  00010001=00000000 = 0
+ 
+
+
+     10101010 
+or   00010001= 10111011 = 187
+ 
+____________________
+
+    1         
+    00100111 
++   11011011 = 100000000 =100000000
+
+
+
+
+    00100111 
+and 11011011 = 00000011=3
+
+
+
+   00100111 
+or 11011011 = 11111111=256
+
+
+
+____________________
+    1 
+    11110000 
++   11001100= 100111100
+
+
+
+
+    11110000 
+and 11001100 = 11000000 =192
+
+
+
+
+   11110000 
+or 11001100 =11111100 = 252
+
+________________________
+
+
+b)
+
+and= 2 transistores 
+
+or= 2 transistores
+
++= 4 transistores
+
+
+
+
+c)
+
+alu: Esta unidad realiza cálculos (suma, resta, multiplicación y división) y operaciones lógicas (comparaciones).
+
+unidad de control: La Unidad de Control también se encarga de controlar otras operaciones como son el transporte de los resultados, proporcionar operandos, comenzar la operación siguiente, etc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

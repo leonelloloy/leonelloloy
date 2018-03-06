@@ -1,0 +1,37 @@
+programación :
+1- desarrolle un programa en python que lea palabras de teclado hasta la palabra fin sin incluir.
+a)
+desarrole una funcion que dada una palabra cuente cuantas vocales tiene la palabra e informe la 
+cantiad de cada una
+b)
+desarrolle una funcion que agregue a una lista cada palabra invertida e imprima la lista
+
+arquitectura:
+a)
+10101010 op 00010001
+00100111 op 11011011 
+11110000 op 11001100
+op= + and or 
+
+pase los resultados a decimal 
+
+b)
+mencione cuantos transistores contiene cada puerta loguica ulilizada en el punto anterior
+
+c)
+describa como funciona y para que sirve la unidad aritmetico-loguica (ALU)
+describa para que sirve y como funciona la unidad de control 
+
+EDI:
+
+a)
+busque en internet para que sirve y mencione 3 ejemplos de versionadores de codigo 
+b)
+mencione y exploque las cuatro libertades del software libre
+c)
+mencione y explique que es el kernel, la shell (bash) y el file sistem o sistema de archivos de linux
+d)
+explique que hacen los siguientes comandos de bash:
+cd-ls-top-ps-rm-touch-history
+e)
+subir las respuestas del todo el examen a un repositorio de github.
